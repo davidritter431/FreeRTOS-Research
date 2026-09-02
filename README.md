@@ -18,3 +18,6 @@ https://www.ti.com/tool/MSP-EXP430FR5994?utm_source=chatgpt.com
 
 MSP430 Fundamentals Workshop
 https://software-dl.ti.com/ccs/esd/training/workshop/ccsv9/ccs_msp430_fundamentals_workshop.html?utm_source=chatgpt.com
+
+FreeRTOS MSP430FR5994 Port
+https://github.com/DavidFiumano/FreeRTOSv10.2-MSP430
