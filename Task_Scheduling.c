@@ -1,15 +1,6 @@
 // David Ritter 9/3/2026
 // This code will create a task to toggle an LED and schedule it in the main function
 
-// How to do multitaksing
-// What is the configuration for the stack 
-// Does the stack have an upper limit
-// Next work on contact switch
-// Work on figuring out the logic and memory
-// Test out dynamic memory allocation
-// Context switch (Key Words)
-// 
-
 // Including the MSP430 device definitions
 #include <msp430.h> 
 #include "FreeRTOS.h"
